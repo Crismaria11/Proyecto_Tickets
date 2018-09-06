@@ -1,3 +1,4 @@
+// Esta pensado para la parte de sign up y luego se conecta con los asientos del cine
 public class compra1 {
     String firstName;
     String lastName;

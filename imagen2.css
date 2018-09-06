@@ -1,0 +1,5 @@
+.root {
+-fx-back-image:url('logo.png');
+-fx-back-size:cover;
+
+}
